@@ -15,12 +15,12 @@
 		<nav class="navbar navbar-expand-md navbar-dark"
 			style="background-color: blue">
 			<div>
-				<a href="https://www.xadmin.net" class="navbar-brand"> User Management Application </a>
+				<a href="#" class="navbar-brand"> Product Management Application </a>
 			</div>
 
 			<ul class="navbar-nav">
 				<li><a href="<%=request.getContextPath()%>/home"
-					class="nav-link">Users</a></li>
+					class="nav-link">Home</a></li>
 			</ul>
 		</nav>
 	</header>
